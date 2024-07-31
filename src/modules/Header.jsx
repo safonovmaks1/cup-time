@@ -38,6 +38,10 @@ export const Header = () => (
 			<a className="header__cart-link" href="cart.html">
 				6
 			</a>
+
+			<a className="header__burger">
+				<img src="image/burger.png" alt="Burger Menu" className="header__burger" />
+			</a>
 		</div>
 	</header>
 );
